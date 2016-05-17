@@ -7,7 +7,7 @@
 
 # Site settings
 title: Jon Radford
-email: jon.radford@gmail.com
+#email: jon.radford@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Thanks for dropping by!
 baseurl: "" # the subpath of your site, e.g. /blog
